@@ -40,4 +40,11 @@ Process to make a call -
 3. Press the "Answer" button and you will see another video of the second peer on your screen.
 4. You can do the same process with another peer by only sharing the encrypted ID.
 
-Some snapshots of the running prototype -
+Demo of the running prototype -
+
+
+https://github.com/serverf21/WebRTC-VideoChat-WebApp/assets/30923855/7c00e705-3fc6-444e-a98b-9144d85701ba
+
+
+
+
